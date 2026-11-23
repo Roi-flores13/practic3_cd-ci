@@ -6,7 +6,7 @@ Aplicación web full-stack desarrollada con **Node.js, Express, TypeScript, Mong
 
 ## 🌐 Aplicación Desplegada (Producción)
 
-- **URL Pública:** `https://<tu-servicio>.onrender.com` *(Reemplazar con tu enlace activo de Render)*
+- **URL Pública:** `https://practic3-cd-ci.onrender.com` 
 - **Health Check:** `GET /health` (verifica disponibilidad del servidor Express)
 - **Readiness Check:** `GET /ready` (verifica conexión activa con MongoDB Atlas)
 
